@@ -18,11 +18,11 @@ The MySQL credentials were stored in an .env file .
 
 <img width="1600" height="860" alt="atmtimeseries ipynb - EXP2 - Visual Studio Code  Administrator  27_10_2025 14_50_55" src="https://github.com/user-attachments/assets/ef0c6980-b1b9-469b-83cf-7d3420df5266" />
 
-<img width="1600" height="860" alt="atmtimeseries ipynb - EXP2 - Visual Studio Code  Administrator  27_10_2025 14_53_28" src="https://github.com/user-attachments/assets/7296c40f-047d-4ab2-86d1-8249d0780f6c" />
-
 <img width="1600" height="860" alt="atmtimeseries ipynb - EXP2 - Visual Studio Code  Administrator  27_10_2025 14_53_00" src="https://github.com/user-attachments/assets/d46c53ac-3271-47fb-8976-9c7dbf40b9b0" />
 
-Database in Relational Database Management System
+<img width="1600" height="860" alt="atmtimeseries ipynb - EXP2 - Visual Studio Code  Administrator  27_10_2025 14_53_28" src="https://github.com/user-attachments/assets/7296c40f-047d-4ab2-86d1-8249d0780f6c" />
+
+# Database in Relational Database Management System
 
 <img width="1600" height="837" alt="MySQL Workbench 27_10_2025 14_54_13" src="https://github.com/user-attachments/assets/38e57b4f-d690-4088-8596-07fcabfcaf6b" />
 
