@@ -15,3 +15,7 @@ The goal of this project is to forecast future amounts for needed ATM Balances t
 
 # Library Importation
 The MySQL credentials were stored in an .env file .
+
+<img width="1600" height="860" alt="atmtimeseries ipynb - EXP2 - Visual Studio Code  Administrator  27_10_2025 14_50_55" src="https://github.com/user-attachments/assets/ef0c6980-b1b9-469b-83cf-7d3420df5266" />
+
+
